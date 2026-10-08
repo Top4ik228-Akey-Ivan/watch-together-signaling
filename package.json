@@ -1,0 +1,16 @@
+{
+  "name": "watch-together-signaling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Top4ik228-Akey-Ivan/watch-together-signaling.git",
+  "author": "Ivan Orekhov <ivanorekhov04022005@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^1.0.2"
+  }
+}
